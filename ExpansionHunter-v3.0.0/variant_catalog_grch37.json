@@ -235,9 +235,13 @@
         "ReferenceRegion": "14:23790682-23790699"
     },
     {
-    	"VariantType": "Repeat",
-	"LocusId": "POLG",
-        "LocusStructure": "(CTG)*",
-    	"ReferenceRegion": "15:89876821-89876859"
+      "VariantType": "Repeat",
+      "LocusId": "POLG",
+      "LocusStructure": "(CTG)*TTG(CTG)*",
+      "ReferenceRegion": ["15:89876820-89876826",
+                          "15:89876829-89876859"],
+      "NormalMax": 15,
+      "PathologicMin": 10000,
+      "PathologicRegion": "15:89876829-89876859"
     }
-]
+ ]
