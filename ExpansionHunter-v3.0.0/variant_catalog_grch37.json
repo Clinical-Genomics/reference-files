@@ -235,7 +235,7 @@
         "ReferenceRegion": "14:23790682-23790699"
     },
     {
-      "VariantType": "Repeat",
+      "VariantType": ["Repeat","Repeat"],
       "LocusId": "POLG",
       "LocusStructure": "(CTG)*TTG(CTG)*",
       "ReferenceRegion": ["15:89876820-89876826",
