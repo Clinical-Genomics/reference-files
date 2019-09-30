@@ -1,0 +1,27 @@
+# TOML
+
+title = "Vcfanno configuration file" 
+
+[[annotation]]
+file="grch37_gnomad.genomes_-r2.0.1-.vcf.gz"
+fields = ["AF", "AF_POPMAX"]
+ops=["self", "self"]
+names=["GNOMADAF", "GNOMADAF_POPMAX"]
+
+[[annotation]]
+file="grch37_anon-swegen_str_nsphs_-1000samples-.vcf.gz"
+fields = ["AF", "AC_Hom", "AC_Het", "AC_Hemi"]
+ops=["self", "self", "self", "self"]
+names=["SWEGENAF", "SWEGENAAC_Hom", "SWEGENAAC_Het", "SWEGENAAC_Hemi"]
+
+[[annotation]]
+file="grch37_loqusdb_snv_indel_-2018-12-18-.vcf.gz"
+fields = ["Obs", "Hom"]
+ops=["self", "self"]
+names=["Obs", "Hom"]
+
+[[annotation]]
+file="grch37_genbank_haplogroup_-2015-08-01-.vcf.gz"
+fields = ["MTAF"]
+ops=["self"]
+names=["MTAF"]
