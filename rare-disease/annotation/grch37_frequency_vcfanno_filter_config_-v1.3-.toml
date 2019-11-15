@@ -12,7 +12,7 @@ names=["GNOMADAF", "GNOMADAF_popmax"]
 file="grch37_anon-swegen_str_nsphs_-1000samples-.vcf.gz"
 fields = ["AF", "AC_Hom", "AC_Het", "AC_Hemi"]
 ops=["self", "self", "self", "self"]
-names=["SWEGENAF", "SWEGENAAC_Hom", "SWEGENAAC_Het", "SWEGENAAC_Hemi"]
+names=["SWEGENAF", "SWEGENAC_Hom", "SWEGENAC_Het", "SWEGENAC_Hemi"]
 
 [[annotation]]
 file="grch37_loqusdb_snv_indel_-2019-11-04-.vcf.gz"
