@@ -15,7 +15,7 @@ ops=["self", "self", "self", "self"]
 names=["SWEGENAF", "SWEGENAAC_Hom", "SWEGENAAC_Het", "SWEGENAAC_Hemi"]
 
 [[annotation]]
-file="grch37_loqusdb_snv_indel_-2018-12-18-.vcf.gz"
+file="grch37_loqusdb_snv_indel_-2019-11-04-.vcf.gz"
 fields = ["Obs", "Hom"]
 ops=["self", "self"]
 names=["Obs", "Hom"]
