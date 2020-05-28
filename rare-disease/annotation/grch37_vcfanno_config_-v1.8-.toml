@@ -30,7 +30,7 @@ ops=["self"]
 names=["MTAF"]
 
 [[annotation]]
-file="grch37_cadd_whole_genome_snvs_-v1.8-.tsv.gz"
+file="grch37_cadd_whole_genome_snvs_-v1.6-.tsv.gz"
 names=["CADD"]
 ops=["mean"]
 columns=[6]
