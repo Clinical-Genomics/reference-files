@@ -1,0 +1,57 @@
+# TOML
+
+title = "Vcfanno configuration file" 
+
+[functions]
+file = "vcfanno_functions_-v1.0-.lua"
+
+[[annotation]]
+file="grch37_gnomad_reformated_-r2.1.1-.vcf.gz"
+fields = ["AF", "AF_popmax"]
+ops=["self", "self"]
+names=["GNOMADAF", "GNOMADAF_popmax"]
+
+[[annotation]]
+file="grch37_anon-swegen_str_nsphs_-1000samples-.vcf.gz"
+fields = ["AF", "AC_Hom", "AC_Het", "AC_Hemi"]
+ops=["self", "self", "self", "self"]
+names=["SWEGENAF", "SWEGENAAC_Hom", "SWEGENAAC_Het", "SWEGENAAC_Hemi"]
+
+[[annotation]]
+file="grch37_loqusdb_snv_indel_-2020-03-24-.vcf.gz"
+fields = ["Obs", "Hom"]
+ops=["self", "self"]
+names=["Obs", "Hom"]
+
+[[annotation]]
+file="grch37_genbank_haplogroup_-2015-08-01-.vcf.gz"
+fields = ["MTAF"]
+ops=["self"]
+names=["MTAF"]
+
+[[annotation]]
+file="grch37_cadd_whole_genome_snvs_-v1.6-.tsv.gz"
+names=["CADD"]
+ops=["mean"]
+columns=[6]
+
+[[annotation]]
+file="grch37_spidex_public_noncommercial_-v1.1-.tsv.gz"
+names=["SPIDEX"]
+ops=["mean"]
+columns=[6]
+
+[[annotation]]
+file="grch37_spliceai_scores_raw_snv_-v1.3-.vcf.gz"
+fields=["SpliceAI", "SpliceAI_DS_max"]
+ops=["self", "self"]
+preops={ fields = ["SpliceAI"], ops = ["lua:spliceai_max_score(vals)"], names = ["SpliceAI_DS_max"] }
+names=["SpliceAI", "SpliceAI_DS_max"]
+skip_split_and_normalize = true
+
+[[annotation]]
+file="grch37_spliceai_scores_raw_indel_-v1.3-.vcf.gz"
+fields=["SpliceAI", "SpliceAI"]
+ops=["self", "lua:spliceai_max_score(vals)"]
+names=["SpliceAI", "SpliceAI_DS_max"]
+skip_split_and_normalize = true
