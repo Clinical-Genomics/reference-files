@@ -375,11 +375,12 @@
     {
         "VariantType": "Repeat",
         "LocusId": "PABPN1",
-        "LocusStructure": "(GCG)*",
-        "ReferenceRegion": "chr14:23790681-23790699",
+        "LocusStructure": "(GCN)*",
+        "ReferenceRegion": "chr14:23790681-23790711",
         "Disease": "OPMD",
-        "NormalMax": 6,
-        "PathologicMin": 9
+        "NormalMax": 10,
+        "PathologicMin": 11,
+        "Source": "GeneReviews Internet 2014-02-20"
     },
     {
       "LocusId": "POLG",
