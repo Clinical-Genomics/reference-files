@@ -582,8 +582,8 @@
         "LocusStructure": "(CAG)*",
         "ReferenceRegion": "18:55586155-55586227",
         "VariantType": "Repeat",
-        "NormalMax": 149,
-        "PathologicMin": 150,
+        "NormalMax": 39,
+        "PathologicMin": 100,
         "Disease": "FECD3"
     },
     {

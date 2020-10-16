@@ -341,8 +341,8 @@
         "LocusId": "TCF4",
         "LocusStructure": "(CAG)*",
         "ReferenceRegion": "chr18:53253386-53253458",
-        "NormalMax": 149,
-        "PathologicMin": 150
+        "NormalMax": 39,
+        "PathologicMin": 100
     },
     {
         "VariantType": "Repeat",
