@@ -368,9 +368,8 @@
       "LocusStructure": "(AARRG)*",
       "ReferenceRegion": "chr4:39350044-39350099",
       "Disease": "CANVAS",
-      "NormalMax": 10,
-      "NormalMax": 15,
-      "PathologicMin": 14
+      "NormalMax": 11,
+      "PathologicMin": 12
     },
     {
         "VariantType": "Repeat",
