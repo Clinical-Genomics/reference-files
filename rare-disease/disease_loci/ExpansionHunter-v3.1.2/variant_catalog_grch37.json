@@ -356,8 +356,8 @@
     {
       "VariantType": "Repeat",
       "LocusId": "GLS",
-      "LocusStructure": "(GGA)*",
-      "ReferenceRegion": "2:191745599-191745646",
+      "LocusStructure": "(GCA)*",
+      "ReferenceRegion": "2:191745598-191745646",
       "Disease": "GDPAG",
       "NormalMax": 20,
       "PathologicMin": 90

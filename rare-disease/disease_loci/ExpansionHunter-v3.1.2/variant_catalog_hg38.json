@@ -607,8 +607,8 @@
     {
       "VariantType": "Repeat",
       "LocusId": "GLS",
-      "LocusStructure": "(CAG)*CAC",
-      "ReferenceRegion": "chr2:190880874-190880918",
+      "LocusStructure": "(GCA)*",
+      "ReferenceRegion": "chr2:190880872-190880920",
       "Disease": "GDPAG",
       "NormalMax": 20,
       "PathologicMin": 90
