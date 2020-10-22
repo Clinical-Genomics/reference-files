@@ -9,7 +9,7 @@ This repository is for storing small custom reference files created locally.
 
 [VCFanno](https://github.com/brentp/vcfanno/) config, lua and specifically converted files (malformated CADD). 
 
-### disease loci
+### disease_loci
 
 Definition files for callers, currently extensions to [ExpansionHunter](https://github.com/Illumina/ExpansionHunter/tree/master/variant_catalog), mirrored and archived from our [Stranger](https://github.com/moonso/stranger) resource [variant catalogs](https://github.com/moonso/stranger/tree/master/stranger/resources).
 
