@@ -11,7 +11,7 @@ This repository is for storing small custom reference files created locally.
 
 ### disease loci
 
-Definition files for callers, currently extensions to [ExpansionHunter](https://github.com/Illumina/ExpansionHunter/tree/master/variant_catalog) 
+Definition files for callers, currently extensions to [ExpansionHunter](https://github.com/Illumina/ExpansionHunter/tree/master/variant_catalog), mirrored and archived from our [Stranger](https://github.com/moonso/stranger) resource [variant catalogs]ttps://github.com/moonso/stranger/tree/master/stranger/resources).
 
 ### frequency
 
