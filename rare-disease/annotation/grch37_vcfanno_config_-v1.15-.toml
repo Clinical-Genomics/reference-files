@@ -23,7 +23,7 @@ fields = ["Frq", "Obs", "Hom"]
 ops=["self", "self", "self"]
 names=["Frq", "Obs", "Hom"]
 
-    [[annotation]]
+[[annotation]]
 file="grch37_genbank_haplogroup_-2015-08-01-.vcf.gz"
 fields = ["MTAF"]
 ops=["self"]
