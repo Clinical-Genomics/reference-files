@@ -1,5 +1,6 @@
 # reference-files
-Small reference files 
+
+Small reference files
 
 This repository is for storing small custom reference files created locally.
 
@@ -7,7 +8,7 @@ This repository is for storing small custom reference files created locally.
 
 ### annotation
 
-[VCFanno](https://github.com/brentp/vcfanno/) config, lua and specifically converted files (malformated CADD). 
+[VCFanno](https://github.com/brentp/vcfanno/) config, lua and specifically converted files (malformated CADD).
 
 ### disease_loci
 
