@@ -24,10 +24,17 @@ ops=["self", "self", "self"]
 names=["Frq", "Obs", "Hom"]
 
 [[annotation]]
+file="grch37_genbank_haplogroup_-2015-08-01-.vcf.gz"
+fields = ["MTAF"]
+ops=["self"]
+names=["MTAF"]
+skip_normalize = true
+
+[[annotation]]
 file="grch37_gnomad_genomes_mt_-r3.1-.vcf.gz"
 fields = ["AF_hom", "AF_het", "mitotip_score", "mitotip_trna_prediction"]
 ops=["self", "self", "self", "self"]
-names=["MTAF_hom", "MTAF_het", "mitotip_score", "mitotip_trna_prediction"]
+names=["GNOMAD_MTAF_hom", "GNOMAD_MTAF_het", "mitotip_score", "mitotip_trna_prediction"]
 
 [[annotation]]
 file="grch37_cadd_whole_genome_snvs_-v1.6-.tsv.gz"
