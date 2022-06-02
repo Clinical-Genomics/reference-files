@@ -11,7 +11,7 @@
         "SweGenMean": 23.87,
         "SweGenStd": 7.523,
         "LocusStructure": "(GCC)*",
-        "ReferenceRegion": "X:147582151-147582211",
+        "ReferenceRegion": "X:147582158-147582203",
         "Disease": "Fraxe",
         "NormalMax": 39,
         "PathologicMin": 200
@@ -30,7 +30,7 @@
         "LocusStructure": "(GCA)*",
         "ReferenceRegion": "X:66765158-66765227",
         "Disease": "SBMA",
-        "NormalMax": 34,
+        "NormalMax": 35,
         "PathologicMin": 38
     },
     {
@@ -46,7 +46,7 @@
         "ReferenceRegion": "X:25031766-25031814",
         "Disease": "EIEE",
         "NormalMax": 16,
-        "PathologicMin": 17
+        "PathologicMin": 18
     },
     {
         "VariantType": "Repeat",
@@ -75,7 +75,7 @@
         "SweGenMean": 17.99,
         "SweGenStd": 3.053,
         "LocusStructure": "(CAG)*",
-        "ReferenceRegion": "12:7045879-7045936",
+        "ReferenceRegion": "12:7045891-7045936",
         "Disease": "DRPLA",
         "NormalMax": 35,
         "PathologicMin": 48
@@ -712,7 +712,7 @@
         "SweGenMean": 26.33,
         "SweGenStd": 11.88,
         "LocusStructure": "(GCN)*",
-        "ReferenceRegion": "4:41747988-41748049",
+        "ReferenceRegion": "4:41747988-41748048",
         "NormalMax": 20,
         "PathologicMin": 25
     },
@@ -803,7 +803,7 @@
         "Source": "GeneReviews",
         "SourceId": "NBK535148",
         "LocusStructure": "(GCN)*",
-        "ReferenceRegion": "6:45390488-45390538",
+        "ReferenceRegion": "6:45390487-45390538",
         "Disease": "CCD",
         "NormalMax": 17,
         "PathologicMin": 20
@@ -833,7 +833,7 @@
         "Source": "GeneReviews",
         "SourceId": "NBK1438",
         "LocusStructure": "(GCA)*",
-        "ReferenceRegion": "6:170870994-170871109",
+        "ReferenceRegion": "6:170870995-170871103",
         "Disease": "SCA17",
         "SweGenMean": 36.24,
         "SweGenStd": 2.293,

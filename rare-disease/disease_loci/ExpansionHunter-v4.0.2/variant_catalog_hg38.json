@@ -8,7 +8,7 @@
         "Source": "GeneReviews",
         "SourceId": "NBK535148",
         "LocusStructure": "(GCC)*",
-        "ReferenceRegion": "chrX:148500631-148500691",
+        "ReferenceRegion": "chrX:148500638-148500683",
         "VariantType": "Repeat",
         "Disease": "Fraxe",
         "NormalMax": 39,
@@ -26,7 +26,7 @@
         "ReferenceRegion": "chrX:67545316-67545385",
         "VariantType": "Repeat",
         "Disease": "SBMA",
-        "NormalMax": 34,
+        "NormalMax": 35,
         "PathologicMin": 38
     },
     {
@@ -42,7 +42,7 @@
         "ReferenceRegion": "chrX:25013649-25013697",
         "Disease": "EIEE",
         "NormalMax": 16,
-        "PathologicMin": 17
+        "PathologicMin": 18
     },
     {
         "VariantType": "Repeat",
@@ -68,7 +68,7 @@
         "Source": "GeneReviews",
         "SourceId": "NBK535148",
         "LocusStructure": "(CAG)*",
-        "ReferenceRegion": "chr12:6936716-6936773",
+        "ReferenceRegion": "chr12:6936728-6936773",
         "VariantType": "Repeat",
         "Disease": "DRPLA",
         "NormalMax": 35,
@@ -925,7 +925,7 @@
         "SourceId": "NBK1427",
         "Disease": "CCHS",
         "LocusStructure": "(GCN)*",
-        "ReferenceRegion": "chr4:41745971-41746032",
+        "ReferenceRegion": "chr4:41745971-41746031",
         "VariantType": "Repeat",
         "NormalMax": 20,
         "PathologicMin": 25,
@@ -1017,7 +1017,7 @@
         "Source": "GeneReviews",
         "SourceId": "NBK535148",
         "LocusStructure": "(GCN)*",
-        "ReferenceRegion": "chr6:45422751-45422801",
+        "ReferenceRegion": "chr6:45422750-45422801",
         "Disease": "CCD",
         "NormalMax": 17,
         "PathologicMin": 20
@@ -1046,7 +1046,7 @@
         "Source": "GeneReviews",
         "SourceId": "NBK1438",
         "LocusStructure": "(GCA)*",
-        "ReferenceRegion": "chr6:170561906-170562017",
+        "ReferenceRegion": "chr6:170561907-170562015",
         "VariantType": "Repeat",
         "Disease": "SCA17",
         "NormalMax": 40,
