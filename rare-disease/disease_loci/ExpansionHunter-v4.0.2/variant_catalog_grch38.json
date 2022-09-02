@@ -787,7 +787,7 @@
         "Source": "GeneReviews",
         "SourceId": "NBK535148",
         "LocusStructure": "(GCN)*",
-        "ReferenceRegion": "2:176093059-176093103",
+        "ReferenceRegion": "2:176093058-176093103",
         "Disease": "SDTY5",
         "NormalMax": 15,
         "PathologicMin": 22
