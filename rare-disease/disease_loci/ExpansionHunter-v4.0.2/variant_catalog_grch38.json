@@ -742,7 +742,7 @@
         "Source": "GeneReviews",
         "SourceId": "NBK1423",
         "LocusStructure": "(NGC)*",
-        "ReferenceRegion": "7:27199925-27199966",
+        "ReferenceRegion": "7:27199924-27199966",
         "Disease": "HFGS",
         "NormalMax": 14,
         "PathologicMin": 22
@@ -757,7 +757,7 @@
         "Source": "GeneReviews",
         "SourceId": "NBK1423",
         "LocusStructure": "(NGC)*",
-        "ReferenceRegion": "7:27199826-27199861",
+        "ReferenceRegion": "7:27199825-27199861",
         "Disease": "HFGS",
         "NormalMax": 12,
         "PathologicMin": 18
@@ -772,7 +772,7 @@
         "Source": "GeneReviews",
         "SourceId": "NBK1423",
         "LocusStructure": "(NGC)*",
-        "ReferenceRegion": "7:27199679-27199732",
+        "ReferenceRegion": "7:27199678-27199732",
         "Disease": "HFGS",
         "NormalMax": 18,
         "PathologicMin": 24
