@@ -1196,7 +1196,7 @@
     },
 
     {
-      "VariantType": ["Repeat","Repeat"],
+      "VariantType": "Repeat",
       "LocusId": "POLG",
       "HGNCId": 9179,
       "DisplayRU": "CTG",
@@ -1205,12 +1205,9 @@
       "SourceDisplay": "Research only - contact CMMS KUH regarding findings",
       "Source": "Expert",
       "SourceId": "CMMS",    
-      "VariantId": ["POLG_I", "POLG_II"],
-      "LocusStructure": "(CTG)*TTG(CTG)*",
-      "ReferenceRegion": ["15:89333590-89333595",
-                          "15:89333599-89333628"],
-      "NormalMax": 15,
-      "PathologicMin": 10000,
-      "PathologicRegion": "15:89333599-89333628"
+      "LocusStructure": "(CTG)*",
+      "ReferenceRegion": "15:89333580-89333628",
+      "NormalMax": 16,
+      "PathologicMin": 10000
     }
 ]

@@ -1207,6 +1207,6 @@
       "LocusStructure": "(CTG)*",
       "ReferenceRegion": "chr15:89833580-89833628",
       "NormalMax": 16,
-      "PathologicMin": 10000,
+      "PathologicMin": 10000
     }
 ]

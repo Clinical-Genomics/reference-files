@@ -990,13 +990,10 @@
         "SourceDisplay": "Research only - contact CMMS KUH regarding findings",
         "Source": "Expert",
         "SourceId": "CMMS",
-        "LocusStructure": "(CTG)*TTG(CTG)*",
-        "VariantType": ["Repeat","Repeat"],
-        "VariantId": ["POLG_I", "POLG_II"],
-        "ReferenceRegion": ["15:89876821-89876826",
-                            "15:89876830-89876859"],
-        "NormalMax": 15,
-        "PathologicMin": 10000,
-        "PathologicRegion": "15:89876830-89876859"
+        "LocusStructure": "(CTG)*",
+        "VariantType": "Repeat",
+        "ReferenceRegion": "15:89876820-89876859",
+        "NormalMax": 16,
+        "PathologicMin": 10000
     }
 ]
