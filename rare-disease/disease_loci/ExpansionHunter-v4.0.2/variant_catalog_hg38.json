@@ -387,7 +387,6 @@
         "NormalMax": 16,
         "PathologicMin": 31
     },
-
     {
         "LocusId": "DIP2B",
         "HGNCId": 29284,
@@ -403,6 +402,21 @@
         "NormalMax": 24,
         "PathologicMin": 270,
         "Disease": "FRA12A"
+    },
+    {
+        "LocusId": "DMD",
+        "HGNCId": 2933,
+        "InheritanceMode": "AD",
+        "DisplayRU": "GAA",
+        "SourceDisplay": "Kekou et al 2016 Mol Cell Probes 30(4):254-260",
+        "Source": "PubMed",
+        "SourceId": "27417533",
+        "LocusStructure": "(GAA)*",
+        "ReferenceRegion": "chrX:31284557-31284605",
+        "VariantType": "Repeat",
+        "Disease": "DMD",
+        "NormalMax": 34,
+        "PathologicMin": 59
     },
     {
         "LocusId": "DMPK",

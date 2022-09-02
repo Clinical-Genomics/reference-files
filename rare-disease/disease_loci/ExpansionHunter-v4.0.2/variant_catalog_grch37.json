@@ -364,6 +364,21 @@
         "PathologicMin": 31
     },
     {
+        "LocusId": "DMD",
+        "HGNCId": 2933,
+        "InheritanceMode": "AD",
+        "DisplayRU": "GAA",
+        "SourceDisplay": "Kekou et al 2016 Mol Cell Probes 30(4):254-260",
+        "Source": "PubMed",
+        "SourceId": "27417533",
+        "LocusStructure": "(GAA)*",
+        "ReferenceRegion": "X:31302674-31302722",
+        "VariantType": "Repeat",
+        "Disease": "DMD",
+        "NormalMax": 34,
+        "PathologicMin": 59
+    },
+    {
         "VariantType": "Repeat",
         "LocusId": "DIP2B",
         "HGNCId": 29284,
