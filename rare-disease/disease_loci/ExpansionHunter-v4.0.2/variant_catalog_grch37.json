@@ -942,7 +942,7 @@
         "Source": "GeneReviews",
         "SourceId": "NBK535148",
         "LocusStructure": "(GCN)*",
-        "ReferenceRegion": "X:136648986-136649015",
+        "ReferenceRegion": "X:136648985-136649015",
         "Disease": "VACTERLX",
         "NormalMax": 10,
         "PathologicMin": 12
