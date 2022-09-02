@@ -8,9 +8,7 @@
         "SourceDisplay": "GeneReviews Internet 2019-11-07",
         "Source": "GeneReviews",
         "SourceId": "NBK535148",
-        "SweGenMean": 23.87,
-        "SweGenStd": 7.523,
-        "LocusStructure": "(GCC)*",
+        "LocusStructure": "(CCG)*",
         "ReferenceRegion": "chrX:147582158-147582203",
         "Disease": "Fraxe",
         "NormalMax": 39,
@@ -108,11 +106,11 @@
         "SourceId": "NBK1184",
         "SweGenMean": 31.17,
         "SweGenStd": 2.022,
-        "LocusStructure": "(TGC)*",
-        "ReferenceRegion": "chr6:16327864-16327954",
+        "LocusStructure": "(CTG)*",
+        "ReferenceRegion": "chr6:16327866-16327953",
         "Disease": "SCA1",
         "NormalMax": 35,
-        "PathologicMin": 45
+        "PathologicMin": 40
     },
     {
         "VariantType": "Repeat",
@@ -125,11 +123,11 @@
         "SourceId": "NBK1275",
         "SweGenMean": 22.11,
         "SweGenStd": 1.353,
-        "LocusStructure": "(GCT)*",
+        "LocusStructure": "(CTG)*",
         "ReferenceRegion": "chr12:112036753-112036822",
         "Disease": "SCA2",
         "NormalMax": 31,
-        "PathologicMin": 37
+        "PathologicMin": 33
     },
     {
         "VariantType": "Repeat",
