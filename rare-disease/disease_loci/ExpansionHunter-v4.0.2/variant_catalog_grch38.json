@@ -1171,7 +1171,7 @@
         "SourceDisplay": "Tazelaar et al (2019) Neurobiol Aging 74 234.e9-234.e15",
         "Source": "PubMed",
         "SourceId": "30342764",
-        "LocusStructure": "(CGC)*",
+        "LocusStructure": "(GCG)*",
         "ReferenceRegion": "15:22786677-22786701",
         "Disease": "ALS - susceptibility to",
         "NormalMax": 8,
@@ -1190,7 +1190,7 @@
       "LocusStructure": "(GCA)*",
       "ReferenceRegion": "2:190880872-190880920",
       "Disease": "GDPAG",
-      "NormalMax": 20,
+      "NormalMax": 26,
       "PathologicMin": 90
     },
     {

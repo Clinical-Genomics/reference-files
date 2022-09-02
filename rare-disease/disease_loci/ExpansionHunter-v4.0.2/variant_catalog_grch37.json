@@ -976,7 +976,7 @@
         "LocusStructure": "(GCA)*",
         "ReferenceRegion": "2:191745598-191745646",
         "Disease": "GDPAG",
-        "NormalMax": 20,
+        "NormalMax": 26,
         "PathologicMin": 90
     },
     {
