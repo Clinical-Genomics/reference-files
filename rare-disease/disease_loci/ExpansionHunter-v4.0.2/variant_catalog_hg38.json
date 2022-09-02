@@ -379,7 +379,7 @@
         ],
         "VariantId": [
             "DAB1_ATTTT1",
-            "DAB1_ATTTC",
+            "DAB1",
             "DAB1_ATTTT2"
         ],
         "PathologicRegion": "chr1:57367053-57367108",
@@ -1195,7 +1195,7 @@
       "PathologicMin": 12
     },
     {
-      "VariantType": ["Repeat","Repeat"],
+      "VariantType": "Repeat",
       "LocusId": "POLG",
       "HGNCId": 9179,
       "DisplayRU": "CTG",
@@ -1203,12 +1203,10 @@
       "Disease": "-",
       "SourceDisplay": "Research only - contact CMMS KUH regarding findings",
       "Source": "Expert",
-      "SourceId": "CMMS",    
-      "VariantId": "POLG",
+      "SourceId": "CMMS",
       "LocusStructure": "(CTG)*",
       "ReferenceRegion": "chr15:89833580-89833628",
       "NormalMax": 16,
       "PathologicMin": 10000,
-      "PathologicRegion": "chr15:89833580-89833628"
     }
 ]
