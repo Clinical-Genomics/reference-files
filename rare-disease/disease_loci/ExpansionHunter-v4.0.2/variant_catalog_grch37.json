@@ -651,7 +651,7 @@
         "Source": "PubMed",
         "SourceId": "32413282",
         "LocusStructure": "(CCG)*",
-        "ReferenceRegion": "19:14606854-14606886",
+        "ReferenceRegion": "19:14606853-14606886",
         "Disease": "OPDM2",
         "NormalMax": 32,
         "PathologicMin": 73
