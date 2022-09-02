@@ -127,12 +127,12 @@
         "SourceDisplay": "GeneReviews Internet 2019-11-07",
         "Source": "GeneReviews",
         "SourceId": "NBK535148",
-        "LocusStructure": "(GCT)*",
-        "ReferenceRegion": "14:92071009-92071042",
+        "LocusStructure": "(CTG)*",
+        "ReferenceRegion": "14:92071010-92071040",
         "VariantType": "Repeat",
         "Disease": "MJD",
         "NormalMax": 44,
-        "PathologicMin": 60
+        "PathologicMin": 56
     },
     {
         "LocusId": "ATXN7",
