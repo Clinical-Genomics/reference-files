@@ -1066,7 +1066,7 @@
         "Source": "GeneReviews",
         "SourceId": "NBK535148",
         "LocusStructure": "(GCN)*",
-        "ReferenceRegion": "22:19766763-19766807",
+        "ReferenceRegion": "22:19766762-19766807",
         "Disease": "TOF",
         "NormalMax": 15,
         "PathologicMin": 25

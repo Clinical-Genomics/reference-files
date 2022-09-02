@@ -850,7 +850,7 @@
         "Source": "GeneReviews",
         "SourceId": "NBK535148",
         "LocusStructure": "(GCN)*",
-        "ReferenceRegion": "chr22:19754286-19754330",
+        "ReferenceRegion": "chr22:19754285-19754330",
         "Disease": "TOF",
         "NormalMax": 15,
         "PathologicMin": 25
