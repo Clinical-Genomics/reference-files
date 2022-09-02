@@ -1142,7 +1142,7 @@
         "Source": "GeneReviews",
         "SourceId": "NBK535148",
         "LocusStructure": "(GCN)*",
-        "ReferenceRegion": "13:99985449-99985493",
+        "ReferenceRegion": "13:99985448-99985493",
         "Disease": "HPE5",
         "NormalMax": 15,
         "PathologicMin": 25
