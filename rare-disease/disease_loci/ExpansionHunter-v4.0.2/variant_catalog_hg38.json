@@ -701,7 +701,7 @@
         "Source": "GeneReviews",
         "SourceId": "NBK535148",
         "LocusStructure": "(NGC)*",
-        "ReferenceRegion": "chr3:138946021-138946062",
+        "ReferenceRegion": "chr3:138946020-138946062",
         "Disease": "BPES",
         "NormalMax": 14,
         "PathologicMin": 15
