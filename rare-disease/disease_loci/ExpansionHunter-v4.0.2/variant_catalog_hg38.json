@@ -102,7 +102,7 @@
         "VariantType": "Repeat",
         "Disease": "SCA1",
         "NormalMax": 35,
-        "PathologicMin": 40,
+        "PathologicMin": 40
     },
     {
         "LocusId": "ATXN2",

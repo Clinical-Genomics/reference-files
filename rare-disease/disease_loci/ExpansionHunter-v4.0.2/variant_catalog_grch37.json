@@ -110,7 +110,7 @@
         "ReferenceRegion": "6:16327866-16327953",
         "Disease": "SCA1",
         "NormalMax": 35,
-        "PathologicMin": 40,
+        "PathologicMin": 40
     },
     {
         "VariantType": "Repeat",
