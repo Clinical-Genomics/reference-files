@@ -1126,8 +1126,8 @@
         "SourceDisplay": "LaCroix et al (2018) AJHG 104(1) 35-44",
         "Source": "PubMed",
         "SourceId": "30554721",
-        "LocusStructure": "(GGC)*",
-        "ReferenceRegion": "chr16:17470908-17470921",
+        "LocusStructure": "(GCC)*",
+        "ReferenceRegion": "chr16:17470907-17470922",
         "Disease": "DBQD2",
         "NormalMax": 20,
         "PathologicMin": 70
