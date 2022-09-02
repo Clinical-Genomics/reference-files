@@ -142,19 +142,9 @@
         "SourceDisplay": "GeneReviews Internet 2019-11-07",
         "Source": "GeneReviews",
         "SourceId": "NBK535148",
-        "LocusStructure": "(GCA)*(GCC)+",
-        "ReferenceRegion": [
-            "3:63912684-63912714",
-            "3:63912714-63912726"
-        ],
-        "VariantId": [
-            "ATXN7",
-            "ATXN7_GCC"
-        ],
-        "VariantType": [
-            "Repeat",
-            "Repeat"
-        ],
+        "LocusStructure": "(CAG)*",
+        "ReferenceRegion": "3:63912684-63912714",
+        "VariantType": "Repeat",
         "Disease": "SCA7",
         "NormalMax": 19,
         "PathologicMin": 36,

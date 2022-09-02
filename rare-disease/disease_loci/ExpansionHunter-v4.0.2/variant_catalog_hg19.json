@@ -130,7 +130,6 @@
         "PathologicMin": 33
     },
     {
-        "VariantType": "Repeat",
         "LocusId": "ATXN3",
         "HGNCId": 7106,
         "InheritanceMode": "AD",
@@ -140,12 +139,12 @@
         "SourceId": "NBK535148",
         "LocusStructure": "(CTG)*",
         "ReferenceRegion": "chr14:92537354-92537384",
+        "VariantType": "Repeat",
         "Disease": "MJD",
         "NormalMax": 44,
         "PathologicMin": 56
     },
     {
-        "VariantType": "Repeat",
         "LocusId": "ATXN7",
         "HGNCId": 10560,
         "InheritanceMode": "AD",
@@ -153,25 +152,13 @@
         "SourceDisplay": "GeneReviews Internet 2019-11-07",
         "Source": "GeneReviews",
         "SourceId": "NBK535148",
-        "SweGenMean": 10.31,
-        "SweGenStd": 1.285,
-        "LocusStructure": "(GCA)*(GCC)+",
-        "ReferenceRegion": [
-            "chr3:63898360-63898390",
-            "chr3:63898390-63898402"
-        ],
-        "VariantType": [
-            "Repeat",
-            "Repeat"
-        ],
-        "VariantId": [
-            "ATXN7",
-            "ATXN7_GCC"
-        ],
+        "LocusStructure": "(CAG)*",
+        "ReferenceRegion": "chr3:63898361-63898391",
+        "VariantType": "Repeat",
         "Disease": "SCA7",
         "NormalMax": 19,
         "PathologicMin": 36,
-        "PathologicRegion": "chr3:63898360-63898390"
+        "PathologicRegion": "chr3:63898361-63898391"
     },
     {
         "LocusId": "ATXN8OS",
