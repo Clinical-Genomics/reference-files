@@ -1,10 +1,6 @@
 # TOML
 
-<<<<<<< HEAD
 title = "Vcfanno configuration file"
-=======
-title = "Vcfanno configuration file"
->>>>>>> 0aa6129... updating loqusdb reference
 
 [functions]
 file="vcfanno_functions_-v1.0-.lua"
