@@ -29,3 +29,9 @@ Manual edits and archive exports to gene panel realated files, bed and tsv.
 ### region
 
 Region type small reference files, mostly BED. vcf2cytosure difficult region exclusion files, cytoband definitions, repeat element locations, manta call regions.
+
+## cancer
+
+### Somalier
+
+Somalier sites files mirrored from [v0.2.16](https://github.com/brentp/somalier/releases/tag/v0.2.16)
