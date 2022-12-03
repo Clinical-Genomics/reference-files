@@ -1,0 +1,49 @@
+# TOML
+
+title = "Vcfanno configuration file"
+
+[functions]
+file="vcfanno_functions_-v1.0-.lua"
+
+[[annotation]]
+file="grch37_gnomad_reformated_-r2.1.1-.vcf.gz"
+fields = ["AF", "AF_popmax"]
+ops=["self", "self"]
+names=["GNOMADAF", "GNOMADAF_popmax"]
+
+[[annotation]]
+file="grch37_anon-swegen_str_nsphs_-1000samples-.vcf.gz"
+fields = ["AF", "AC_Hom", "AC_Het", "AC_Hemi"]
+ops=["self", "self", "self", "self"]
+names=["SWEGENAF", "SWEGENAAC_Hom", "SWEGENAAC_Het", "SWEGENAAC_Hemi"]
+
+[[annotation]]
+file="grch37_loqusdb_snv_indel_variants_export-20220905-.vcf.gz"
+fields = ["Frq", "Obs", "Hom"]
+ops=["self", "self", "self"]
+names=["Frq", "Obs", "Hom"]
+
+[[annotation]]
+file="grch37_genbank_haplogroup_-2015-08-01-.vcf.gz"
+fields = ["MTAF"]
+ops=["self"]
+names=["MTAF"]
+skip_normalize = true
+
+[[annotation]]
+file="grch37_gnomad_genomes_mt_-r3.1-.vcf.gz"
+fields = ["AF_hom", "AF_het", "mitotip_score", "mitotip_trna_prediction"]
+ops=["self", "self", "self", "self"]
+names=["GNOMAD_MTAF_hom", "GNOMAD_MTAF_het", "mitotip_score", "mitotip_trna_prediction"]
+
+[[annotation]]
+file="grch37_cadd_whole_genome_snvs_-v1.6-.tsv.gz"
+names=["CADD"]
+ops=["mean"]
+columns=[6]
+
+[[annotation]]
+file="grch37_spidex_public_noncommercial_-v1.1-.tsv.gz"
+names=["SPIDEX"]
+ops=["mean"]
+columns=[6]
