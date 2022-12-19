@@ -440,6 +440,22 @@
         "PathologicMin": 10
     },
     {
+        "LocusId": "FGF14",
+        "HGNCId": 3671,
+        "InheritanceMode": "AR",
+        "DisplayRU": "GAA",
+        "SourceDisplay": "Rafehi et al 2022 AJHG S0002-9297(22)00506-7",
+        "Source": "PubMed",
+        "SourceId": "36493768",
+        "LocusStructure": "(GAA*)",
+        "ReferenceRegion": "chr13:102813926-102814076",
+        "VariantId": "FGF14",
+        "VariantType": "Repeat",
+        "Disease": "SCA50",
+        "NormalMax": 50,
+        "PathologicMin": 250
+    },
+    {
         "VariantType": "RareRepeat",
         "LocusId": "FMR1",
         "HGNCId": 3775,
