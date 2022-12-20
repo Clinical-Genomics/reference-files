@@ -468,7 +468,7 @@
         "SourceDisplay": "Rafehi et al 2022 AJHG S0002-9297(22)00506-7",
         "Source": "PubMed",
         "SourceId": "36493768",
-        "LocusStructure": "(GAA*)",
+        "LocusStructure": "(GAA)*",
         "ReferenceRegion": "13:102161577-121161726",
         "VariantId": "FGF14",
         "VariantType": "Repeat",
