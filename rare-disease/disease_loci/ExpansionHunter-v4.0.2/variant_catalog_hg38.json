@@ -469,7 +469,7 @@
         "Source": "PubMed",
         "SourceId": "36493768",
         "LocusStructure": "(GAA)*",
-        "ReferenceRegion": "chr13:102161577-121161726",
+        "ReferenceRegion": "chr13:102161576-102161726",
         "VariantId": "FGF14",
         "VariantType": "Repeat",
         "Disease": "SCA50",
