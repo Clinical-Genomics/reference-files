@@ -406,7 +406,7 @@
     {
         "LocusId": "DMD",
         "HGNCId": 2928,
-        "InheritanceMode": "AD",
+        "InheritanceMode": "XR",
         "DisplayRU": "GAA",
         "SourceDisplay": "Kekou et al 2016 Mol Cell Probes 30(4):254-260",
         "Source": "PubMed",
