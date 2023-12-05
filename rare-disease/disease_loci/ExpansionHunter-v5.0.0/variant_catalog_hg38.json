@@ -45,21 +45,6 @@
         "PathologicMin": 18
     },
     {
-        "VariantType": "Repeat",
-        "LocusId": "ARX_PRTS",
-        "HGNCId": 18060,
-        "InheritanceMode": "XR",
-        "DisplayRU": "GCN",
-        "SourceDisplay": "GeneReviews Internet 2019-11-07",
-        "Source": "GeneReviews",
-        "SourceId": "NBK535148",
-        "LocusStructure": "(NGC)*",
-        "ReferenceRegion": "chrX:25013529-25013565",
-        "Disease": "PRTS",
-        "NormalMax": 12,
-        "PathologicMin": 20
-    },
-    {
         "LocusId": "ATN1",
         "HGNCId": 3033,
         "InheritanceMode": "AD",
