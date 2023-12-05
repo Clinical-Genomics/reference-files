@@ -1223,20 +1223,5 @@
       "Disease": "CANVAS",
       "NormalMax": 11,
       "PathologicMin": 12
-    },
-    {
-      "VariantType": "Repeat",
-      "LocusId": "POLG",
-      "HGNCId": 9179,
-      "DisplayRU": "CTG",
-      "InheritanceMode": "-",
-      "Disease": "-",
-      "SourceDisplay": "Research only - contact CMMS KUH regarding findings",
-      "Source": "Expert",
-      "SourceId": "CMMS",
-      "LocusStructure": "(CTG)*",
-      "ReferenceRegion": "chr15:89833580-89833628",
-      "NormalMax": 16,
-      "PathologicMin": 10000
     }
 ]
