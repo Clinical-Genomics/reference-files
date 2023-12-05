@@ -1148,5 +1148,19 @@
       "Disease": "CANVAS",
       "NormalMax": 11,
       "PathologicMin": 12
+    },
+        {
+        "VariantType": "Repeat",
+        "LocusId": "ZFHX3",
+        "HGNCId": 777,
+        "InheritanceMode": "AD",
+        "LocusStructure": "(GCC)*",
+        "ReferenceRegion": "16:72787694-72787757",
+        "SweGenMean": 21,
+        "SweGenStd": 0.8,
+        "Disease": "SCA4",
+        "NormalMax": 28,
+        "PathologicMin": 45
     }
+
 ]
