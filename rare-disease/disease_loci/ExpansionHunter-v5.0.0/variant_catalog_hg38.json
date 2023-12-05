@@ -1070,7 +1070,7 @@
         "LocusStructure": "(GCC)*",
         "ReferenceRegion": "chr16:17470907-17470922",
         "Disease": "DBQD2",
-        "NormalMax": 20,
+        "NormalMax": 60,
         "PathologicMin": 70
     },
     {
