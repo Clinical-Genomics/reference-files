@@ -267,8 +267,8 @@
         "LocusStructure": "(TGGAA)*TAAAATAAAATAAAATAAAATAAAATAAAATAAAATAAAATAAAATAAAA",
         "ReferenceRegion": "16:66524301-66524356",
         "Disease": "SCA31",
-        "NormalMax": 10,
-        "PathologicMin": 40
+        "NormalMax": 35,
+        "PathologicMin": 50
     },
     {
         "LocusId": "CNBP",
