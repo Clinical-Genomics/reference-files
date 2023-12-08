@@ -443,7 +443,7 @@
         "VariantId": "FGF14",
         "VariantType": "Repeat",
         "Disease": "SCA50",
-        "NormalMax": 50,
+        "NormalMax": 150,
         "PathologicMin": 250
     },
     {
@@ -872,7 +872,7 @@
         "LocusStructure": "(GCN)*",
         "ReferenceRegion": "chr4:41745971-41746031",
         "VariantType": "Repeat",
-        "NormalMax": 20,
+        "NormalMax": 21,
         "PathologicMin": 25,
         "Disease": "CCHS"
     },
@@ -1104,22 +1104,6 @@
         "PathologicMin": 12
     },
     {
-        "VariantType": "Repeat",
-        "LocusId": "NIPA1",
-        "HGNCId": 17043,
-        "InheritanceMode": "AD",
-        "DisplayRU": "GCG",
-        "SourceDisplay": "Tazelaar et al (2019) Neurobiol Aging 74 234.e9-234.e15",
-        "Source": "PubMed",
-        "SourceId": "30342764",
-        "LocusStructure": "(GCG)*",
-        "ReferenceRegion": "chr15:22786677-22786701",
-        "Disease": "ALS - susceptibility to",
-        "NormalMax": 8,
-        "PathologicMin": 10000
-    },
-
-    {
       "VariantType": "Repeat",
       "LocusId": "GLS",
       "HGNCId": 4331,
@@ -1160,6 +1144,6 @@
         "SweGenStd": 0.8,
         "Disease": "SCA4",
         "NormalMax": 28,
-        "PathologicMin": 45
+        "PathologicMin": 42
     }
 ]
