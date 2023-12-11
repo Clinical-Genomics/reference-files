@@ -1,5 +1,17 @@
 [
     {
+        "LocusId": "ABCD3",
+        "HGNCId": 67,
+        "InheritanceMode": "AD",
+        "DisplayRU": "CCG",
+        "LocusStructure": "(CCG)*",
+        "ReferenceRegion": "chr1:94883978-94884000",
+        "VariantType": "Repeat",
+        "Disease": "OPDM",
+        "NormalMax": 50,
+        "PathologicMin": 118
+    },
+    {
         "VariantType": "Repeat",
         "LocusId": "AFF2",
         "HGNCId": 3776,
@@ -412,7 +424,7 @@
     {
         "LocusId": "FGF14",
         "HGNCId": 3671,
-        "InheritanceMode": "AR",
+        "InheritanceMode": "AD",
         "DisplayRU": "GAA",
         "SourceDisplay": "Rafehi et al 2022 AJHG S0002-9297(22)00506-7",
         "Source": "PubMed",
@@ -706,6 +718,53 @@
     },
     {
         "VariantType": "Repeat",
+        "LocusId": "RFC1",
+        "HGNCId": 9969,
+        "InheritanceMode": "AR",
+        "DisplayRU": "AARRG",
+        "SourceDisplay": "Cortese et al 2019 Nat Gen",
+        "Source": "PubMed",
+        "SourceId": "30926972",
+        "SweGenMean": 26.77,
+        "SweGenStd": 18.68,
+        "LocusStructure": "(AARRG)*",
+        "ReferenceRegion": "chr4:39350044-39350099",
+        "Disease": "CANVAS",
+        "NormalMax": 11,
+        "PathologicMin": 12
+    },
+    {
+        "VariantType": "Repeat",
+        "LocusId": "RILPL1",
+        "HGNCId": 26814,
+        "InheritanceMode": "AD",
+        "DisplayRU": "CGG",
+        "SourceDisplay": "Yu et al (2022) AJHG 109(3):533-541",
+        "Source": "PubMed",
+        "SourceId": "35148830",
+        "LocusStructure": "(GGC)*",
+        "ReferenceRegion": "12:124018267-124018302",
+        "Disease": "OPDM4",
+        "NormalMax": 16,
+        "PathologicMin": 139
+    },
+    {
+        "VariantType": "Repeat",
+        "LocusId": "RUNX2",
+        "HGNCId": 10472,
+        "InheritanceMode": "AD",
+        "DisplayRU": "GCN",
+        "SourceDisplay": "GeneReviews Internet 2019-11-07",
+        "Source": "GeneReviews",
+        "SourceId": "NBK535148",
+        "LocusStructure": "(GCN)*",
+        "ReferenceRegion": "chr6:45390487-45390538",
+        "Disease": "CCD",
+        "NormalMax": 17,
+        "PathologicMin": 20
+    },
+    {
+        "VariantType": "Repeat",
         "LocusId": "SAMD12",
         "HGNCId": 31750,
         "InheritanceMode": "AD",
@@ -733,21 +792,6 @@
       "Disease": "FAME1",
       "NormalMax": 1,
       "PathologicMin": 10
-    },
-    {
-        "VariantType": "Repeat",
-        "LocusId": "RUNX2",
-        "HGNCId": 10472,
-        "InheritanceMode": "AD",
-        "DisplayRU": "GCN",
-        "SourceDisplay": "GeneReviews Internet 2019-11-07",
-        "Source": "GeneReviews",
-        "SourceId": "NBK535148",
-        "LocusStructure": "(GCN)*",
-        "ReferenceRegion": "chr6:45390487-45390538",
-        "Disease": "CCD",
-        "NormalMax": 17,
-        "PathologicMin": 20
     },
     {
         "VariantType": "Repeat",
@@ -812,6 +856,21 @@
         "SweGenStd": 8.388,
         "NormalMax": 39,
         "PathologicMin": 100
+    },
+    {
+        "LocusId": "THAP11",
+        "HGNCId": 23194,
+        "InheritanceMode": "AD",
+        "Disease": "SCA",
+        "DisplayRU": "CAG",
+        "SourceDisplay": "Tan et al (2023) Movement Disorders 38(7):1282-1293",
+        "Source": "PubMed",
+        "SourceId": "37148549",
+        "LocusStructure": "(CAG)*",
+        "ReferenceRegion": "chr16:67876766-67876853",
+        "VariantType": "Repeat",
+        "NormalMax": 38,
+        "PathologicMin":45
     },
     {
         "VariantType": "Repeat",
@@ -904,23 +963,6 @@
         "Disease": "GDPAG",
         "NormalMax": 26,
         "PathologicMin": 90
-    },
-    {
-        "VariantType": "Repeat",
-        "LocusId": "RFC1",
-        "HGNCId": 9969,
-        "InheritanceMode": "AR",
-        "DisplayRU": "AARRG",
-        "SourceDisplay": "Cortese et al 2019 Nat Gen",
-        "Source": "PubMed",
-        "SourceId": "30926972",
-        "SweGenMean": 26.77,
-        "SweGenStd": 18.68,
-        "LocusStructure": "(AARRG)*",
-        "ReferenceRegion": "chr4:39350044-39350099",
-        "Disease": "CANVAS",
-        "NormalMax": 11,
-        "PathologicMin": 12
     },
     {
         "VariantType": "Repeat",
