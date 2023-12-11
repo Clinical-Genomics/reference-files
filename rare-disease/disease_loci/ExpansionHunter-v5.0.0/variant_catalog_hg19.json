@@ -558,7 +558,7 @@
             "HTT_CCG"
         ],
         "Disease": "Huntington",
-        "NormalMax": 26,
+        "NormalMax": 34,
         "PathologicMin": 36,
         "PathologicRegion": "chr4:3076603-3076660"
     },

@@ -767,7 +767,7 @@
             "Repeat"
         ],
         "Disease": "Huntington",
-        "NormalMax": 26,
+        "NormalMax": 34,
         "PathologicMin": 36,
         "PathologicRegion": "chr4:3074876-3074933"
     },
