@@ -454,7 +454,7 @@
         "ReferenceRegion": "chr13:102161576-102161726",
         "VariantId": "FGF14",
         "VariantType": "Repeat",
-        "Disease": "SCA50",
+        "Disease": "SCA27B",
         "NormalMax": 150,
         "PathologicMin": 250
     },
