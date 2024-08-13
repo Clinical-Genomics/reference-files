@@ -51,5 +51,5 @@ columns=[6]
 [[annotation]]
 file="critical_variants.vcf.gz"
 fields=["TYPE"]
-ops=["lua:critical_variants()"]
+ops=["flag"]
 names=["CRITICAL_VARIANT"]
