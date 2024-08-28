@@ -1,0 +1,14 @@
+/home/proj/stage/workflows/raredisease/references/references_dev/grch37_anon-swegen_str_nsphs_-1000samples-.vcf.gz
+/home/proj/stage/workflows/raredisease/references/references_dev/grch37_anon-swegen_str_nsphs_-1000samples-.vcf.gz.tbi
+/home/proj/stage/workflows/raredisease/references/references_dev/grch37_cadd_whole_genome_snvs_-v1.6-.tsv.gz
+/home/proj/stage/workflows/raredisease/references/references_dev/grch37_cadd_whole_genome_snvs_-v1.6-.tsv.gz.tbi
+/home/proj/stage/workflows/raredisease/references/references_dev/grch37_genbank_haplogroup_-2015-08-01-.vcf.gz
+/home/proj/stage/workflows/raredisease/references/references_dev/grch37_genbank_haplogroup_-2015-08-01-.vcf.gz.tbi
+/home/proj/stage/workflows/raredisease/references/references_dev/grch37_gnomad_genomes_mt_-r3.1-.vcf.gz
+/home/proj/stage/workflows/raredisease/references/references_dev/grch37_gnomad_genomes_mt_-r3.1-.vcf.gz.tbi
+/home/proj/stage/workflows/raredisease/references/references_dev/grch37_gnomad_reformated_-r2.1.1-.vcf.gz
+/home/proj/stage/workflows/raredisease/references/references_dev/grch37_gnomad_reformated_-r2.1.1-.vcf.gz.tbi
+/home/proj/stage/workflows/raredisease/references/references_dev/grch37_loqusdb_snv_indel_variants_export-20230512-.vcf.gz
+/home/proj/stage/workflows/raredisease/references/references_dev/grch37_loqusdb_snv_indel_variants_export-20230512-.vcf.gz.tbi
+/home/proj/stage/workflows/raredisease/references/references_dev/grch37_spidex_public_noncommercial_-v1.1-.tsv.gz
+/home/proj/stage/workflows/raredisease/references/references_dev/grch37_spidex_public_noncommercial_-v1.1-.tsv.gz.tbi
