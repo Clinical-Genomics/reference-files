@@ -49,7 +49,7 @@ ops=["mean"]
 columns=[6]
 
 [[annotation]]
-file="critical_variants.vcf.gz"
+file="managed_variants.vcf.gz"
 fields=["TYPE"]
 ops=["flag"]
 names=["CRITICAL_VARIANT"]
