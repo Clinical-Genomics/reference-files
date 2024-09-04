@@ -2,9 +2,6 @@
 
 title = "Vcfanno configuration file"
 
-[functions]
-file="vcfanno_functions_-v1.0-.lua"
-
 [[annotation]]
 file="grch37_gnomad_reformated_-r2.1.1-.vcf.gz"
 fields = ["AF", "AF_popmax"]

@@ -1,0 +1,5 @@
+filename,in_freq_info_key,in_allele_count_info_key,out_freq_info_key,out_allele_count_info_key
+grch37_alu_swegen.vcf.gz,FRQ,OCC,swegen_alu_FRQ,swegen_alu_OCC,
+grch37_herv_swegen.vcf.gz,FRQ,OCC,swegen_herv_FRQ,swegen_herv_OCC
+grch37_l1_swegen.vcf.gz,FRQ,OCC,swegen_l1_FRQ,swegen_l1_OCC
+grch37_sva_swegen.vcf.gz,FRQ,OCC,swegen_sva_FRQ,swegen_sva_OCC

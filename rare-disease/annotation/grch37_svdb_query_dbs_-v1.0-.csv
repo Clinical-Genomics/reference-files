@@ -1,0 +1,9 @@
+filename,in_freq_info_key,in_allele_count_info_key,out_freq_info_key,out_allele_count_info_key
+grch37_svdb_query_decipher_-v1.0.0-.vcf,FRQ,OCC,decipherAF,decipherOCC
+grch37_svdb_query_clingen_cgh_benign_-v1.0.0-.vcf,,,clingen_cgh_benign,clingen_cgh_benign
+grch37_svdb_query_clingen_ngi_-v1.0.0-.vcf,FRQ,OCC,clingen_ngiAF,clingen_ngiOCC
+grch37_loqusdb_sv_variants_export-20220905-.vcf,Frq,Obs,clinical_genomics_loqusFrq,clinical_genomics_loqusObs
+grch37_svdb_query_clingen_cgh_pathogenic_-v2.0.0-.vcf,,,clingen_cgh_pathogenic,clingen_cgh_pathogenic
+grch37_gnomad.genomes_-r2.1.1_sv-.vcf,AF,AC,gnomad_svAF,gnomad_svAC
+grch37_mip_sv_svdb_export_-2018-10-09-.vcf,FRQ,OCC,clinical_genomics_mipAF,clinical_genomics_mipOCC
+grch37_swegen_concat_sort_-20170830-.vcf,FRQ,OCC,swegenAF,swegenOCC
