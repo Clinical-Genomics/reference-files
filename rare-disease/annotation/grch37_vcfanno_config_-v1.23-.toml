@@ -18,7 +18,7 @@ ops=["self", "self", "self", "self"]
 names=["SWEGENAF", "SWEGENAAC_Hom", "SWEGENAAC_Het", "SWEGENAAC_Hemi"]
 
 [[annotation]]
-file="grch37_loqusdb_snv_indel_variants_export-20241004-.vcf.gz"
+file="grch37_loqusdb_snv_indel_variants_export-20230512-.vcf.gz"
 fields = ["Frq", "Obs", "Hom"]
 ops=["self", "self", "self"]
 names=["Frq", "Obs", "Hom"]
@@ -47,3 +47,9 @@ file="grch37_spidex_public_noncommercial_-v1.1-.tsv.gz"
 names=["SPIDEX"]
 ops=["mean"]
 columns=[6]
+
+[[annotation]]
+file="managed_variants.vcf.gz"
+fields=["TYPE"]
+ops=["flag"]
+names=["CRITICAL_VARIANT"]
