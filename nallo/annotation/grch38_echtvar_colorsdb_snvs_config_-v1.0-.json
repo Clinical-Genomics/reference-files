@@ -1,0 +1,12 @@
+[
+	{   "field": "AF",
+            "alias": "colorsdb_af",
+            "multiplier": 1000000
+        },
+        {
+            "field": "AC",
+            "alias": "colorsdb_ac",
+            "multiplier": 1000000
+        },
+
+    ]
