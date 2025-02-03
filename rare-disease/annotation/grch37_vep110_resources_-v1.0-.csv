@@ -1,7 +1,7 @@
 vep_files
 gnomad_pli_per_gene_-r2.1.1-.txt
-grch37_clinvar_reformatted_-20241001-.vcf.gz
-grch37_clinvar_reformatted_-20241001-.vcf.gz.tbi
+grch37_clinvar_reformatted_-20250202-.vcf.gz
+grch37_clinvar_reformatted_-20250202-.vcf.gz.tbi
 grch37_dbnsfp_-v3.5a-.txt.gz
 grch37_dbnsfp_-v3.5a-.txt.gz.tbi
 grch37_genomic_superdups_reformated_-20181009-.bed.gz
