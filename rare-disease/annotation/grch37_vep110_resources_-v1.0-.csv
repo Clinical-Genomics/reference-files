@@ -1,0 +1,14 @@
+vep_files
+gnomad_pli_per_gene_-r2.1.1-.txt
+grch37_clinvar_reformatted_-20241001-.vcf.gz
+grch37_clinvar_reformatted_-20241001-.vcf.gz.tbi
+grch37_dbnsfp_-v3.5a-.txt.gz
+grch37_dbnsfp_-v3.5a-.txt.gz.tbi
+grch37_genomic_superdups_reformated_-20181009-.bed.gz
+grch37_genomic_superdups_reformated_-20181009-.bed.gz.tbi
+grch37_spliceai_scores_raw_indel_-v1.3-.vcf.gz
+grch37_spliceai_scores_raw_indel_-v1.3-.vcf.gz.tbi
+grch37_spliceai_scores_raw_snv_-v1.3-.vcf.gz
+grch37_spliceai_scores_raw_snv_-v1.3-.vcf.gz.tbi
+ensembl-tools-release-110/cache/Plugins/LoFtool_scores.txt
+ensembl-tools-release-110/cache/Plugins/fordownload
