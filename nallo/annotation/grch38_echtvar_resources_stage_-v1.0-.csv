@@ -1,0 +1,4 @@
+sample,file
+colorsdb,/home/proj/stage/workflows/nallo/references/references_dev/grch38_ecthvar_colorsdb_v1.0.0_snvs_-v1.0-.zip
+cadd,/home/proj/stage/workflows/nallo/references/references_dev/grch38_ecthvar_cadd_v1.6_-v1.0-.zip
+gnomad,/home/proj/stage/workflows/nallo/references/references_dev/grch38_ecthvar_gnomad_v4.0_-v1.0-.zip

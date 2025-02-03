@@ -1,0 +1,9 @@
+vep_files
+/home/proj/stage/workflows/nallo/references/references_dev/grch38_vep_112_pli_values_-v1.0-.txt
+/home/proj/stage/workflows/nallo/references/references_dev/grch38_vep_112_loftool_scores_-v1.0-.txt
+/home/proj/stage/workflows/nallo/references/references_dev/grch38_spliceai_scores_raw_snv_-v1.0-.vcf.gz
+/home/proj/stage/workflows/nallo/references/references_dev/grch38_spliceai_scores_raw_indel_-v1.0-.vcf.gz
+/home/proj/stage/workflows/nallo/references/references_dev/grch38_spliceai_scores_raw_indel_-v1.0-.vcf.gz.tbi
+/home/proj/stage/workflows/nallo/references/references_dev/grch38_spliceai_scores_raw_snv_-v1.0-.vcf.gz.tbi
+/home/proj/stage/workflows/nallo/references/references_dev/grch38_clinvar_reformatted_renamed_-v1.0-.vcf.gz
+/home/proj/stage/workflows/nallo/references/references_dev/grch38_clinvar_reformatted_renamed_-v1.0-.vcf.gz.tbi
