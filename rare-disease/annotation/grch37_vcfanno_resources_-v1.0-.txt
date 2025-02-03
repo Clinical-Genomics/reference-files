@@ -8,7 +8,7 @@ grch37_gnomad_genomes_mt_-r3.1-.vcf.gz
 grch37_gnomad_genomes_mt_-r3.1-.vcf.gz.tbi
 grch37_gnomad_reformated_-r2.1.1-.vcf.gz
 grch37_gnomad_reformated_-r2.1.1-.vcf.gz.tbi
-grch37_loqusdb_snv_indel_variants_export-20241001-.vcf.gz
-grch37_loqusdb_snv_indel_variants_export-20241001-.vcf.gz.tbi
+grch37_loqusdb_snv_indel_variants_export-20250203-.vcf.gz
+grch37_loqusdb_snv_indel_variants_export-20250203-.vcf.gz.tbi
 grch37_spidex_public_noncommercial_-v1.1-.tsv.gz
 grch37_spidex_public_noncommercial_-v1.1-.tsv.gz.tbi
