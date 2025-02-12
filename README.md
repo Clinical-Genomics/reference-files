@@ -35,3 +35,8 @@ Region type small reference files, mostly BED. vcf2cytosure difficult region exc
 ### Somalier
 
 Somalier sites files mirrored from [v0.2.16](https://github.com/brentp/somalier/releases/tag/v0.2.16)
+
+## nallo
+
+See Nallo [README](nallo/README.md).
+
