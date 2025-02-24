@@ -20,7 +20,3 @@
 | `nallo/region/grch38_hificnv_expected_copynumer_xx_-v1.0-.bed`         | Downloaded from [expected_cn.hg38.XX.bed](https://github.com/PacificBiosciences/HiFiCNV/raw/7b0622788cbfbf571c34fff55924991b6c688893/data/expected_cn/expected_cn.hg38.XX.bed)                                                                                                                |
 | `nallo/region/grch38_hificnv_expected_copynumer_xy_-v1.0-.bed`         | Downloaded from [expected_cn.hg38.XY.bed](https://raw.githubusercontent.com/PacificBiosciences/HiFiCNV/7b0622788cbfbf571c34fff55924991b6c688893/data/expected_cn/expected_cn.hg38.XY.bed)                                                                                                     |
 | `nallo/region/grch38_par.bed`                                          | Downloaded from [GRCh38_PAR.bed](https://storage.googleapis.com/deepvariant/case-study-testdata/GRCh38_PAR.bed)                                                                                                                                                                               |
-
-Nallo will also use:
-
-- `variant_catalog_grch38.json` - from https://github.com/Clinical-Genomics/reference-files/raw/b20e53f0f92f45de227a2c7369e7538c6bfe60cb/rare-disease/disease_loci/ExpansionHunter-v5.0.0/variant_catalog_hg38.json or https://github.com/Clinical-Genomics/stranger/raw/84b97cf23ce522fa94d360612e7ed930789bb277/stranger/resources/variant_catalog_grch38.json?
