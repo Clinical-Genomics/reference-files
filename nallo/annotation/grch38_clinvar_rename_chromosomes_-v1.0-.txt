@@ -22,4 +22,4 @@
 22 chr22
 X chrX
 Y chrY
-M chrM
+MT chrM
