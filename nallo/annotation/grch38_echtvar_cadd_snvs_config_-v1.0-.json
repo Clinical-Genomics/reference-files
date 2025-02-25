@@ -1,0 +1,14 @@
+[{
+        "field": "raw",
+        "alias": "cadd_raw",
+        multiplier: 100,
+        zigzag: true,
+        missing_value: -2,
+}, {
+        field: "phred",
+        alias: "CADD",
+        multiplier: 100,
+        zigzag: true,
+        missing_value: -2,
+}]
+
