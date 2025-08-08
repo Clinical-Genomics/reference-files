@@ -1,4 +1,0 @@
-filename,in_freq_info_key,in_allele_count_info_key,out_freq_info_key,out_allele_count_info_key
-/home/proj/stage/workflows/nallo/references/references_dev/CoLoRSdb.GRCh38.v1.1.0.pbsv.jasmine.vcf.gz,AF,AC,colorsdb_af,colorsdb_ac
-/home/proj/stage/workflows/nallo/references/references_dev/gnomad.v4.1.sv.sites_no_cnv.vcf.gz,AF,AC,gnomad_af,gnomad_ac
-/home/proj/stage/workflows/nallo/references/references_dev/gms.vcf.gz,AF,AC,gms_af,gms_ac
