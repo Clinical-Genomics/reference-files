@@ -1,0 +1,5 @@
+type	path
+ALU	grch38_alu.bed
+HERV	grch38_herv.bed
+L1	grch38_l1.bed
+SVA	grch38_sva.bed
