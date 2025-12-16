@@ -173,7 +173,7 @@
         "Disease": "SCA8",
         "NormalMax": 50,
         "PathologicMin": 80,
-        "PathologicRegion": "chr13:70139383-70139428"
+        "PathologicRegion": "chr13:70139353-70139428"
     },
     {
         "LocusId": "C9ORF72",
