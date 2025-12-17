@@ -159,13 +159,11 @@
         "Source": "GeneReviews",
         "SourceId": "NBK535148",
         "LocusStructure": "(CTA)*(CTG)*",
-        "PathologicStruc": [1],
+        "PathologicStruc": [0,1],
         "ReferenceRegion": [
-            "chr13:70139353-70139383",
-            "chr13:70139383-70139428"
+            "chr13:70139353-70139428"
         ],
         "VariantId": [
-            "ATXN8OS_CTA",
             "ATXN8OS"
         ],
         "VariantType": [
@@ -175,7 +173,7 @@
         "Disease": "SCA8",
         "NormalMax": 50,
         "PathologicMin": 80,
-        "PathologicRegion": "chr13:70139383-70139428"
+        "PathologicRegion": "chr13:70139353-70139428"
     },
     {
         "LocusId": "C9ORF72",
@@ -464,6 +462,7 @@
         "Source": "PubMed",
         "SourceId": "36493768",
         "LocusStructure": "(GAA)*",
+        "PathologicStruc": [0],
         "ReferenceRegion": "chr13:102161576-102161726",
         "VariantId": "FGF14",
         "VariantType": "Repeat",
