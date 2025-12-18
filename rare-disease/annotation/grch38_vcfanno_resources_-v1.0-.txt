@@ -1,0 +1,16 @@
+/home/proj/stage/workflows/raredisease/references/v2.0_grch38/grch38_cadd_whole_genome_snvs_-v1.7_chr.tsv.gz
+/home/proj/stage/workflows/raredisease/references/v2.0_grch38/grch38_cadd_whole_genome_snvs_-v1.7_chr.tsv.gz.tbi
+/home/proj/stage/workflows/raredisease/references/v2.0_grch38/grch38_genbank_haplogroup_-2015-08-01-.vcf.gz
+/home/proj/stage/workflows/raredisease/references/v2.0_grch38/grch38_genbank_haplogroup_-2015-08-01-.vcf.gz.tbi
+/home/proj/stage/workflows/raredisease/references/v2.0_grch38/gnomad/grch38_gnomad_genomes_mt_-r3.1-.vcf.gz
+/home/proj/stage/workflows/raredisease/references/v2.0_grch38/gnomad/grch38_gnomad_genomes_mt_-r3.1-.vcf.gz.tbi
+/home/proj/stage/workflows/raredisease/references/v2.0_grch38/gnomad/grch38_gnomad_reformatted_merged_r4.1-.vcf.gz
+/home/proj/stage/workflows/raredisease/references/v2.0_grch38/gnomad/grch38_gnomad_reformatted_merged_r4.1-.vcf.gz.tbi
+/home/proj/stage/workflows/raredisease/references/v2.0_grch38/grch38_loqusdb_snv_indel_variants_export-20250903-.vcf.gz
+/home/proj/stage/workflows/raredisease/references/v2.0_grch38/grch38_loqusdb_snv_indel_variants_export-20250903-.vcf.gz.tbi
+/home/proj/stage/workflows/raredisease/references/v2.0_grch38/grch38_swegen_frequencies_fixploidy_-20190204-.vcf.gz
+/home/proj/stage/workflows/raredisease/references/v2.0_grch38/grch38_swegen_frequencies_fixploidy_-20190204-.vcf.gz.tbi
+/home/proj/stage/workflows/raredisease/references/v2.0_grch38/scout_causatives_liftover38_sorted.vcf.gz
+/home/proj/stage/workflows/raredisease/references/v2.0_grch38/scout_causatives_liftover38_sorted.vcf.gz.tbi
+/home/proj/stage/workflows/raredisease/references/v2.0_grch38/mutacc_20251212_causative_variants_hg38_sorted.vcf.gz
+/home/proj/stage/workflows/raredisease/references/v2.0_grch38/mutacc_20251212_causative_variants_hg38_sorted.vcf.gz.tbi
