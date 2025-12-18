@@ -1,0 +1,5 @@
+filename,in_freq_info_key,in_allele_count_info_key,out_freq_info_key,out_allele_count_info_key
+/home/proj/stage/workflows/raredisease/references/v2.0_grch38/grch38_alu_swegen.vcf.gz,FRQ,OCC,swegen_alu_FRQ,swegen_alu_OCC
+/home/proj/stage/workflows/raredisease/references/v2.0_grch38/grch38_herv_swegen.vcf.gz,FRQ,OCC,swegen_herv_FRQ,swegen_herv_OCC
+/home/proj/stage/workflows/raredisease/references/v2.0_grch38/grch38_l1_swegen.vcf.gz,FRQ,OCC,swegen_l1_FRQ,swegen_l1_OCC
+/home/proj/stage/workflows/raredisease/references/v2.0_grch38/grch38_sva_swegen.vcf.gz,FRQ,OCC,swegen_sva_FRQ,swegen_sva_OCC
