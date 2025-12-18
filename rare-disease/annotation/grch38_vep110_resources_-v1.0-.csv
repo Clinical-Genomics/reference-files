@@ -1,0 +1,14 @@
+vep_files
+/home/proj/stage/workflows/raredisease/references/v2.0_grch38/grch38_gnomad_pli_per_gene_-r4.1-.txt
+/home/proj/stage/workflows/raredisease/references/v2.0_grch38/grch38_clinvar_reformatted_20250721-.vcf.gz
+/home/proj/stage/workflows/raredisease/references/v2.0_grch38/grch38_clinvar_reformatted_20250721-.vcf.gz.tbi
+/home/proj/stage/workflows/nallo/references/shared/grch38_dbNSFP4.5a.gz
+/home/proj/stage/workflows/nallo/references/shared/grch38_dbNSFP4.5a.gz.tbi
+/home/proj/stage/workflows/raredisease/references/v2.0_grch38/grch38_genomic_superdups_reformated_20141019-.bed.gz
+/home/proj/stage/workflows/raredisease/references/v2.0_grch38/grch38_genomic_superdups_reformated_20141019-.bed.gz.tbi
+/home/proj/stage/workflows/raredisease/references/v2.0_grch38/grch38_spliceai_scores.raw.indel.hg38.v1.3.vcf.gz
+/home/proj/stage/workflows/raredisease/references/v2.0_grch38/grch38_spliceai_scores.raw.indel.hg38.v1.3.vcf.gz.tbi
+/home/proj/stage/workflows/raredisease/references/v2.0_grch38/grch38_spliceai_scores.raw.snv.hg38.v1.3.vcf.gz
+/home/proj/stage/workflows/raredisease/references/v2.0_grch38/grch38_spliceai_scores.raw.snv.hg38.v1.3.vcf.gz.tbi
+/home/proj/stage/workflows/raredisease/references/v2.0_grch38/ensembl-tools-release-110/cache/Plugins/LoFtool_scores.txts/LoFtool_scores.txt
+/home/proj/stage/workflows/raredisease/references/v2.0_grch38/ensembl-tools-release-110/cache/Plugins/fordownload

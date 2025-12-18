@@ -1,0 +1,46 @@
+# TOML
+
+title = "Vcfanno configuration file"
+
+[[annotation]]
+file="grch38_loqusdb_snv_indel_variants_export-20250903-.vcf.gz"
+fields = ["Frq", "Obs", "Hom"]
+ops=["self", "self", "self"]
+names=["Frq", "Obs", "Hom"]
+
+[[annotation]]
+file="grch38_gnomad_reformatted_merged_r4.1-.vcf.gz"
+fields = ["AF", "AF_grpmax"]
+ops=["self", "self"]
+names=["GNOMADAF", "GNOMADAF_grpmax"]
+
+[[annotation]]
+file="grch38_swegen_frequencies_fixploidy_-20190204-.vcf.gz"
+fields = ["AF", "AC_Hom", "AC_Het", "AC_Hemi"]
+ops=["self", "self", "self", "self"]
+names=["SWEGENAF", "SWEGENAAC_Hom", "SWEGENAAC_Het", "SWEGENAAC_Hemi"]
+
+[[annotation]]
+file="grch38_genbank_haplogroup_-2015-08-01-.vcf.gz"
+fields = ["MTAF"]
+ops=["self"]
+names=["MTAF"]
+skip_normalize = true
+
+[[annotation]]
+file="grch38_gnomad_genomes_mt_-r3.1-.vcf.gz"
+fields = ["AF_hom", "AF_het", "mitotip_score", "mitotip_trna_prediction"]
+ops=["self", "self", "self", "self"]
+names=["GNOMAD_MTAF_hom", "GNOMAD_MTAF_het", "mitotip_score", "mitotip_trna_prediction"]
+
+[[annotation]]
+file="grch38_cadd_whole_genome_snvs_-v1.7_chr.tsv.gz"
+names=["CADD"]
+ops=["mean"]
+columns=[6]
+
+[[annotation]]
+file="managed_variants_hg38.vcf.gz"
+fields=["TYPE"]
+ops=["flag"]
+names=["CRITICAL_VARIANT"]

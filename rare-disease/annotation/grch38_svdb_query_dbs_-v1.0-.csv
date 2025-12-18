@@ -1,0 +1,5 @@
+filename,in_freq_info_key,in_allele_count_info_key,out_freq_info_key,out_allele_count_info_key
+grch38_svdb_query_decipher_Sept2015.vcf,FRQ,OCC,decipherAF,decipherOCC
+grch38_gnomad.v4.1.sv.sites.no_cnv.vcf.gz,AF,AC,gnomad_svAF,gnomad_svAC
+grch38_swegen_svdb_concat_sort_-20200608-.vcf,FRQ,OCC,swegenAF,swegenOC
+grch38_loqusdb_sv_variants_export-sorted-20250903-.vcf.gz,Frq,Obs,clinical_genomics_loqusFrq,clinical_genomics_loqusObs
