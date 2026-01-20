@@ -21,7 +21,7 @@
 
 ## strdrop archive
 
-`nallo/annotation/grch38_strdrop_training_set_260108.json` was created by running strdrop 0.3.1 on TRGT 5.0.0 VCFs run with `grch38_trgt_pathogenic_repeats.bed` commit [0cd376caa80dd25d4af6ee52155044aeb0aeeee1](https://raw.githubusercontent.com/Clinical-Genomics/reference-files/0cd376caa80dd25d4af6ee52155044aeb0aeeee1/nallo/annotation/grch38_trgt_pathogenic_repeats.bed), from 463 cases sequenced at CG and processed by Nallo:
+`nallo/annotation/grch38_strdrop_training_set_260108.json` was created by running strdrop 0.3.1 on TRGT 5.0.0 VCFs run with `grch38_trgt_pathogenic_repeats.bed` commit [0cd376caa80dd25d4af6ee52155044aeb0aeeee1](https://raw.githubusercontent.com/Clinical-Genomics/reference-files/0cd376caa80dd25d4af6ee52155044aeb0aeeee1/nallo/annotation/grch38_trgt_pathogenic_repeats.bed), from 292 cases sequenced at CG and processed by Nallo:
 
 ```
 export IMG=/home/proj/stage/workflows/nallo/singularity_cache/depot.galaxyproject.org-singularity-trgt-5.0.0--h9ee0642_0.img
@@ -36,14 +36,17 @@ parallel -j 36 --colsep '\t' \
     --genome "$GENOME" \
     --reads ../data/{1}_haplotagged.bam \
     --repeats "$REPEATS" \
-    --karyotype {2} \
+    --karyotype {3} \
     --threads 1 \
     --output-prefix {1} \
-  :::: ../samples_sequenced_at_cg_not_cust000_with_known_sex.tsv
+  :::: ../samples_for_databases_251224.tsv
+
+# Remove all spanning bam files, because strdrop excepts only VCF files in directory
+rm *.spanning.bam
 
 cd ../strdrop
 singularity pull https://community-cr-prod.seqera.io/docker/registry/v2/blobs/sha256/f8/f860e6cdc0d4222f89145d5e5f6aba15368eefc50b65bc78890613d976344a7f/data
 
 cd ../
-singularity exec strdrop/data strdrop build --training-set trgt/ grch38_strdrop_training_set_260108.json
+singularity exec strdrop/data strdrop build --training-set trgt/ grch38_strdrop_training_set_260120.json
 ```
