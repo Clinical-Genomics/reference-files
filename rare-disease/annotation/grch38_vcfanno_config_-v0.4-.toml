@@ -40,7 +40,13 @@ ops=["mean"]
 columns=[6]
 
 [[annotation]]
-file="managed_variants_hg38.vcf.gz"
+file="managed_variants.vcf.gz"
 fields=["TYPE"]
 ops=["flag"]
 names=["CRITICAL_VARIANT"]
+
+[[annotation]]
+file="managed_variants_hg38_liftedoverfrom37.vcf.gz"
+fields=["TYPE"]
+ops=["flag"]
+names=["CRITICAL_VARIANT_LIFTOVER37"]
