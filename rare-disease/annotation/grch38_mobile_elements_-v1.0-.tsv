@@ -1,0 +1,5 @@
+type	path
+ALU	/home/proj/production/workflows/raredisease/references/gms_rd_3.0/grch38_alu.bed
+HERV	/home/proj/production/workflows/raredisease/references/gms_rd_3.0/grch38_herv.bed
+L1	/home/proj/production/workflows/raredisease/references/gms_rd_3.0/grch38_l1.bed
+SVA	/home/proj/production/workflows/raredisease/references/gms_rd_3.0/grch38_sva.bed

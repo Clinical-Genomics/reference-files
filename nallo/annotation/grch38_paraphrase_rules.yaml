@@ -1,0 +1,69 @@
+CFH:
+  rules:
+    - when:
+        fusions_called:
+          not_empty: true
+      status: "intermediate"
+      reason: "Fusions called"
+
+CFHR3:
+  rules:
+    - when:
+        fusions_called:
+          not_empty: true
+      status: "intermediate"
+      reason: "Fusions called"
+
+CYP11B1:
+  rules:
+    - when:
+        fusions_called:
+          not_empty: true
+      status: "pathological"
+      reason: "Fusions called"
+
+f8:
+  rules:
+    - when:
+        sv_called:
+          not_empty: true
+      status: "pathological"
+      reason: "Structural variant called"
+
+GBA:
+  rules:
+    - when:
+        fusions_called:
+          not_empty: true
+      status: "intermediate"
+      reason: "Fusions called"
+
+ikbkg:
+  rules:
+    - when:
+        deletion_haplotypes:
+          not_empty: true
+      status: "pathological"
+      reason: "Deletion haplotypes called"
+
+ncf1:
+  rules:
+    - when:
+        gene_cn: 0
+      status: "pathological"
+      reason: "Gene CN is 0 in ncf1"
+    - when:
+        gene_cn: 1
+        status: "intermediate"
+        reason: "Gene CN is 1 in ncf1"
+
+smn1:
+  rules:
+    - when:
+        smn1_cn: 0
+      status: "pathological"
+      reason: "SMN1 copy number is 0"
+    - when:
+        smn1_cn: 1
+      status: "intermediate"
+      reason: "SMN1 copy number is 1"
