@@ -18,7 +18,7 @@ names=["GNOMADAF", "GNOMADAF_grpmax", "GNOMADAC", "GNOMAD_nhomalt", "GNOMAD_nhom
 file="grch38_gnomad_exomes_reformatted_merged_r4.1-.vcf.gz"
 fields = ["AF", "AF_grpmax", "AC", "nhomalt", "nhomalt_XX", "nhomalt_XY"]
 ops=["self", "self", "self", "self", "self", "self"]
-names=["GNOMADAF", "GNOMADAF_grpmax", "GNOMADAC", "GNOMAD_nhomalt", "GNOMAD_nhomalt_XX", "GNOMAD_nhomalt_XY"]
+names=["GNOMAD_WES_AF", "GNOMAD_WES_AF_grpmax", "GNOMAD_WES_AC", "GNOMAD_WES_nhomalt", "GNOMAD_WES_nhomalt_XX", "GNOMAD_WES_nhomalt_XY"]
 
 [[annotation]]
 file="grch38_swegen_frequencies_fixploidy_-20190204-.vcf.gz"
