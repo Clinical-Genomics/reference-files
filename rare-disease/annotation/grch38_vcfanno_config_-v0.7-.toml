@@ -3,7 +3,7 @@
 title = "Vcfanno configuration file"
 
 [[annotation]]
-file="grch38_loqusdb_snv_indel_variants_export-20260727-.vcf.gz"
+file="grch38_loqusdb_snv_indel_variants_export-20260921-.vcf.gz"
 fields = ["Frq", "Obs", "Hom"]
 ops=["self", "self", "self"]
 names=["Frq", "Obs", "Hom"]

@@ -14,5 +14,5 @@
 /home/proj/production/workflows/raredisease/references/gms_rd_4.0/mutacc_20251212_causative_variants_hg38_sorted.vcf.gz.tbi
 /home/proj/production/workflows/raredisease/references/gms_rd_4.0/managed_variants_hg38_liftedoverfrom37.vcf.gz
 /home/proj/production/workflows/raredisease/references/gms_rd_4.0/managed_variants_hg38_liftedoverfrom37.vcf.gz.tbi
-/home/proj/production/workflows/raredisease/references/gms_rd_4.0/grch38_loqusdb_snv_indel_variants_export-20260727-.vcf.gz
-/home/proj/production/workflows/raredisease/references/gms_rd_4.0/grch38_loqusdb_snv_indel_variants_export-20260727-.vcf.gz.tbi
+/home/proj/production/workflows/raredisease/references/gms_rd_4.0/grch38_loqusdb_snv_indel_variants_export-20260921-.vcf.gz
+/home/proj/production/workflows/raredisease/references/gms_rd_4.0/grch38_loqusdb_snv_indel_variants_export-20260921-.vcf.gz.tbi
