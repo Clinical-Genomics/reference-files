@@ -21,3 +21,13 @@ vep_files
 /home/proj/stage/workflows/raredisease/references/gms_rd_4.0/grch38_loqusdb_snv_indel_variants_export-20260921-.vcf.gz.tbi
 /home/proj/stage/workflows/raredisease/references/gms_rd_4.0/loeuf_dataset_grch38.sorted.tsv.gz
 /home/proj/stage/workflows/raredisease/references/gms_rd_4.0/loeuf_dataset_grch38.sorted.tsv.gz.tbi
+/home/proj/stage/workflows/raredisease/references/gms_rd_4.0/alphagenome_variant_impact_score_snvs.tsv.gz
+/home/proj/stage/workflows/raredisease/references/gms_rd_4.0/alphagenome_variant_impact_score_snvs.tsv.gz.tbi
+/home/proj/stage/workflows/raredisease/references/gms_rd_4.0/grch38_spliceai_scores.raw.snv.hg38.v1.3.vcf.gz
+/home/proj/stage/workflows/raredisease/references/gms_rd_4.0/grch38_spliceai_scores.raw.snv.hg38.v1.3.vcf.gz.tbi
+/home/proj/stage/workflows/raredisease/references/gms_rd_4.0/grch38_spliceai_scores.raw.indel.hg38.v1.3.vcf.gz
+/home/proj/stage/workflows/raredisease/references/gms_rd_4.0/grch38_spliceai_scores.raw.indel.hg38.v1.3.vcf.gz.tbi
+/home/proj/stage/workflows/raredisease/references/gms_rd_4.0/dbNSFP5.4a_grch38.gz
+/home/proj/stage/workflows/raredisease/references/gms_rd_4.0/dbNSFP5.4a_grch38.gz.tbi
+/home/proj/stage/workflows/raredisease/references/gms_rd_4.0/grch38_clinvar_reformatted_20260720-.vcf.gz
+/home/proj/stage/workflows/raredisease/references/gms_rd_4.0/grch38_clinvar_reformatted_20260720-.vcf.gz.tbi
