@@ -19,3 +19,5 @@ vep_files
 /home/proj/stage/workflows/raredisease/references/gms_rd_4.0/managed_variants_hg38_liftedoverfrom37.vcf.gz.tbi
 /home/proj/stage/workflows/raredisease/references/gms_rd_4.0/grch38_loqusdb_snv_indel_variants_export-20260921-.vcf.gz
 /home/proj/stage/workflows/raredisease/references/gms_rd_4.0/grch38_loqusdb_snv_indel_variants_export-20260921-.vcf.gz.tbi
+/home/proj/stage/workflows/raredisease/references/gms_rd_4.0/loeuf_dataset_grch38.sorted.tsv.gz
+/home/proj/stage/workflows/raredisease/references/gms_rd_4.0/loeuf_dataset_grch38.sorted.tsv.gz.tbi
