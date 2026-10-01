@@ -6,6 +6,8 @@ This repository is for storing small custom reference files created locally.
 
 ## rare-disease
 
+File provenance for select files is tracked in the rare-disease [README](rare-disease/README.md).
+
 ### annotation
 
 [VCFanno](https://github.com/brentp/vcfanno/) config, lua and specifically converted files (malformated CADD).
