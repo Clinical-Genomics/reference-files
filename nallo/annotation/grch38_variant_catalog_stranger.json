@@ -262,7 +262,7 @@
             "chrX:154341221-154341987",
             "chrX:154390157-154390883"
         ],
-        "ReferenceRegion": "chr9:27573528-27573546",
+        "ReferenceRegion": "chr9:27573484-27573546",
         "VariantType": "RareRepeat",
         "Disease": "FTDALS1",
         "NormalMax": 25,
