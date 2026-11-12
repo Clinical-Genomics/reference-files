@@ -100,7 +100,7 @@
         "VariantType": "Repeat",
         "Disease": "SCA1",
         "NormalMax": 35,
-        "PathologicMin": 40
+        "PathologicMin": 39
     },
     {
         "LocusId": "ATXN2",
@@ -115,7 +115,7 @@
         "VariantType": "Repeat",
         "Disease": "SCA2",
         "NormalMax": 31,
-        "PathologicMin": 33
+        "PathologicMin": 35
     },
     {
         "LocusId": "ATXN3",
@@ -130,7 +130,7 @@
         "VariantType": "Repeat",
         "Disease": "MJD",
         "NormalMax": 44,
-        "PathologicMin": 56
+        "PathologicMin": 60
     },
     {
         "LocusId": "ATXN7",
@@ -146,8 +146,8 @@
         "PathologicStruc": [0],
         "VariantType": "Repeat",
         "Disease": "SCA7",
-        "NormalMax": 19,
-        "PathologicMin": 36,
+        "NormalMax": 27,
+        "PathologicMin": 37,
         "PathologicRegion": "chr3:63912684-63912714"
     },
     {
@@ -172,7 +172,7 @@
         ],
         "Disease": "SCA8",
         "NormalMax": 50,
-        "PathologicMin": 80,
+        "PathologicMin": 71,
         "PathologicRegion": "chr13:70139353-70139428"
     },
     {
@@ -265,8 +265,8 @@
         "ReferenceRegion": "chr9:27573484-27573546",
         "VariantType": "RareRepeat",
         "Disease": "FTDALS1",
-        "NormalMax": 25,
-        "PathologicMin": 40
+        "NormalMax": 24,
+        "PathologicMin": 61
     },
     {
         "LocusId": "CACNA1A",
@@ -740,8 +740,8 @@
             "Repeat"
         ],
         "Disease": "FRDA",
-        "NormalMax": 35,
-        "PathologicMin": 51,
+        "NormalMax": 33,
+        "PathologicMin": 66,
         "PathologicRegion": "chr9:69037286-69037304"
     },
     {
@@ -968,7 +968,7 @@
       "ReferenceRegion": "chr4:39348424-39348483",
       "Disease": "CANVAS",
       "NormalMax": 11,
-      "PathologicMin": 12
+      "PathologicMin": 201
     },
     {
         "VariantType": "Repeat",
@@ -1214,7 +1214,7 @@
         "SweGenMean": 21,
         "SweGenStd": 0.8,
         "Disease": "SCA4",
-        "NormalMax": 28,
+        "NormalMax": 26,
         "PathologicMin": 42
     }
 ]

@@ -107,7 +107,7 @@
         "ReferenceRegion": "6:16327866-16327953",
         "Disease": "SCA1",
         "NormalMax": 35,
-        "PathologicMin": 40
+        "PathologicMin": 39
     },
     {
         "VariantType": "Repeat",
@@ -124,7 +124,7 @@
         "ReferenceRegion": "12:112036753-112036822",
         "Disease": "SCA2",
         "NormalMax": 31,
-        "PathologicMin": 33
+        "PathologicMin": 35
     },
     {
         "VariantType": "Repeat",
@@ -139,7 +139,7 @@
         "ReferenceRegion": "14:92537354-92537384",
         "Disease": "MJD",
         "NormalMax": 44,
-        "PathologicMin": 56
+        "PathologicMin": 60
     },
     {
         "LocusId": "ATXN7",
@@ -153,8 +153,8 @@
         "ReferenceRegion": "3:63898361-63898391",
         "VariantType": "Repeat",
         "Disease": "SCA7",
-        "NormalMax": 19,
-        "PathologicMin": 36,
+        "NormalMax": 27,
+        "PathologicMin": 37,
         "PathologicRegion": "3:63898361-63898391"
     },
     {
@@ -182,7 +182,7 @@
         ],
         "Disease": "SCA8",
         "NormalMax": 50,
-        "PathologicMin": 80,
+        "PathologicMin": 71,
         "PathologicRegion": "13:70713515-70713560"
     },
     {
@@ -230,8 +230,8 @@
            "X:153618748-153618918"
        ],
        "Disease": "FTDALS1",
-       "NormalMax": 25,
-       "PathologicMin": 40
+       "NormalMax": 24,
+       "PathologicMin": 61
     },
     {
         "VariantType": "Repeat",
@@ -515,8 +515,8 @@
             "FXN"
         ],
         "Disease": "FRDA",
-        "NormalMax": 35,
-        "PathologicMin": 51,
+        "NormalMax": 33,
+        "PathologicMin": 66,
         "PathologicRegion": "9:71652202-71652220"
     },
     {
@@ -731,7 +731,7 @@
         "ReferenceRegion": "4:39350044-39350099",
         "Disease": "CANVAS",
         "NormalMax": 11,
-        "PathologicMin": 12
+        "PathologicMin": 201
     },
     {
         "VariantType": "Repeat",
@@ -978,7 +978,7 @@
         "SweGenMean": 21,
         "SweGenStd": 0.8,
         "Disease": "SCA4",
-        "NormalMax": 28,
+        "NormalMax": 26,
         "PathologicMin": 42
     }
 ]
