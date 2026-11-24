@@ -35,8 +35,8 @@ skip_normalize = true
 
 [[annotation]]
 file="grch38_gnomad_genomes_mt_-r3.1-.vcf.gz"
-fields = ["AF_hom", "AF_het", "mitotip_score", "mitotip_trna_prediction"]
-ops=["self", "self", "self", "self"]
+fields = ["AF_hom", "AF_het", "AC_hom", "AC_het", "AN", "mitotip_score", "mitotip_trna_prediction"]
+ops=["self", "self", "self", "self", "self", "self", "self"]
 names=["GNOMAD_MTAF_hom", "GNOMAD_MTAF_het", "mitotip_score", "mitotip_trna_prediction"]
 
 [[annotation]]
